@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek 👋
 
-*Experienced enough to know there's always more to learn.*
+**Experienced enough to know that there's always more to learn.**
 
 ### About Me
 
