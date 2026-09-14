@@ -40,3 +40,7 @@ Currently focusing on leveling up my AI skills and building agents that (mostly)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/Abhi270600/Abhi270600/output/github-contribution-grid-snake.svg)
