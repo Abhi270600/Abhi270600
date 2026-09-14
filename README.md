@@ -4,7 +4,7 @@
 
 ### About Me
 
-Software Engineer who likes building things from zero all the way to a working version, whether that's cloud infrastructure, full stack apps, or intelligent systems running in production. Recently completed my Masters in Computer Science at New York University, and previously worked as a Software Development Engineer at Intel, where I built and shipped enterprise systems used by real teams.
+I'm a Software Engineer who likes building things from zero all the way to a working version, whether that's cloud infrastructure, full stack apps, or intelligent systems running in production. Recently completed my Masters in Computer Science at New York University, and previously worked as a Software Development Engineer at Intel, where I built and shipped enterprise systems used by real teams.
 
 Currently focusing on leveling up my AI skills and building agents that (mostly) do what I want them to.
 
